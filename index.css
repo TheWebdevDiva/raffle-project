@@ -18,10 +18,12 @@ h2 {
     margin-top: 0;
     margin-bottom: 20px;
     color: white;
+    text-shadow: 3px 3px 1px rgba(0, 0, 0, 0.9);
 }
 
 p {
     color: white;
+    text-shadow: 3px 3px 1px rgba(0, 0, 0, 0.9);
 
 }
 button {
